@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4B63639-0DBA-44C0-B765-6B3881B73F30"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkillBox012/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118 - 9643300c29890930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillBox012.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SkillBox012.ViewController"
+                  moduleName = "SkillBox012"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasilijkrylov/projects/SkillBox012/SkillBox012/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118 - 859a2ded3f88ba9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillBox012.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SkillBox012.ViewController"
+                  moduleName = "SkillBox012"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasilijkrylov/projects/SkillBox012/SkillBox012/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "327">
+               </Location>
+               <Location
+                  uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118 - 99ff3cf7f6c0f6e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillBox012.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SkillBox012.ViewController&gt;"
+                  moduleName = "SkillBox012"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasilijkrylov/projects/SkillBox012/SkillBox012/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118 - ff3fc0d3f0b3981f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillBox012.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SkillBox012.ViewController&gt;"
+                  moduleName = "SkillBox012"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasilijkrylov/projects/SkillBox012/SkillBox012/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "30E37905-3413-463A-B0F7-FAB4EAC09118 - c57bd3686acb8009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkillBox012.ViewController.__deallocating_deinit"
+                  moduleName = "SkillBox012"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasilijkrylov/projects/SkillBox012/SkillBox012/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
