@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/vasilijkrylov/repositories/skillbox/python/python_advanced/module_05_processes_and_threads/homework/hw4/redirect.py", line 62, in <module>
+    raise Exception("Hello stderr")
+Exception: Hello stderr

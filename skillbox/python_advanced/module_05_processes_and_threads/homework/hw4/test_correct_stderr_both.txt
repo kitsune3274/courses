@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/vasilijkrylov/repositories/skillbox/python/python_advanced/module_05_processes_and_threads/homework/hw4/test_redirect.py", line 40, in test_correct_both_stdout_stderr_redirect
+    raise Exception(self.stderr_text)
+Exception: Hello stderr
