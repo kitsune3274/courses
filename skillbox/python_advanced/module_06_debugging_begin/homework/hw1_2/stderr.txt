@@ -1,0 +1,209 @@
+INFO:password_checker:Вы пытаетесь аутентифицироваться в Skillbox
+INFO:password_checker:У вас есть 3 попыток
+DEBUG:password_checker:Начало input_and_check_password
+WARNING:password_checker:Вы ввели слишком слабый пароль
+DEBUG:password_checker:Начало input_and_check_password
+WARNING:password_checker:Вы ввели слишком слабый пароль
+DEBUG:password_checker:Начало input_and_check_password
+WARNING:password_checker:Вы ввели слишком слабый пароль
+ERROR:password_checker:Пользователь трижды ввёл не правильный пароль!
+17:26:21 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+17:26:21 INFO     password_checker У вас есть 3 попыток
+17:26:21 DEBUG    password_checker Начало input_and_check_password
+17:26:26 WARNING  password_checker Вы ввели слишком слабый пароль
+17:26:26 DEBUG    password_checker Начало input_and_check_password
+17:26:27 WARNING  password_checker Вы ввели слишком слабый пароль
+17:26:27 DEBUG    password_checker Начало input_and_check_password
+17:26:27 WARNING  password_checker Вы ввели слишком слабый пароль
+17:26:27 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+17:27:14 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+17:27:14 INFO     password_checker У вас есть 3 попыток
+17:27:16 WARNING  password_checker Вы ввели слишком слабый пароль
+17:27:17 WARNING  password_checker Вы ввели слишком слабый пароль
+17:27:17 WARNING  password_checker Вы ввели слишком слабый пароль
+17:27:17 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+18:09:44 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+18:09:44 INFO     password_checker У вас есть 3 попыток
+18:09:59 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+18:09:59 INFO     password_checker У вас есть 3 попыток
+18:19:08 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+18:19:08 INFO     password_checker У вас есть 3 попыток
+18:19:24 WARNING  password_checker Вы ввели слишком слабый пароль
+18:21:50 WARNING  password_checker Вы ввели слишком слабый пароль
+18:24:02 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+18:24:02 INFO     password_checker У вас есть 3 попыток
+18:24:06 WARNING  password_checker Вы ввели слишком слабый пароль
+20:40:51 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:40:51 INFO     password_checker У вас есть 3 попыток
+20:41:06 WARNING  password_checker Вы ввели слишком слабый пароль
+20:41:15 WARNING  password_checker Вы ввели слишком слабый пароль
+20:41:29 WARNING  password_checker Вы ввели слишком слабый пароль
+20:41:29 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+20:42:20 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:42:20 INFO     password_checker У вас есть 3 попыток
+20:42:24 WARNING  password_checker Вы ввели слишком слабый пароль
+20:42:34 WARNING  password_checker Вы ввели слишком слабый пароль
+20:42:43 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:42:43 INFO     password_checker У вас есть 3 попыток
+20:42:50 WARNING  password_checker Вы ввели слишком слабый пароль
+20:43:24 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:43:24 INFO     password_checker У вас есть 3 попыток
+20:43:27 WARNING  password_checker Вы ввели слишком слабый пароль
+20:44:15 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:44:15 INFO     password_checker У вас есть 3 попыток
+20:44:18 WARNING  password_checker Вы ввели слишком слабый пароль
+20:45:09 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:45:09 INFO     password_checker У вас есть 3 попыток
+20:45:12 WARNING  password_checker Вы ввели слишком слабый пароль
+20:46:11 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:46:11 INFO     password_checker У вас есть 3 попыток
+20:46:14 WARNING  password_checker Вы ввели слишком слабый пароль
+20:46:28 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:46:28 INFO     password_checker У вас есть 3 попыток
+20:46:31 WARNING  password_checker Вы ввели слишком слабый пароль
+20:48:32 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:48:32 INFO     password_checker У вас есть 3 попыток
+20:48:37 WARNING  password_checker Вы ввели слишком слабый пароль
+20:48:40 WARNING  password_checker Вы ввели слишком слабый пароль
+20:48:52 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:48:52 INFO     password_checker У вас есть 3 попыток
+20:48:54 WARNING  password_checker Вы ввели слишком слабый пароль
+20:48:56 WARNING  password_checker Вы ввели слишком слабый пароль
+20:49:03 WARNING  password_checker Вы ввели слишком слабый пароль
+20:49:03 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+20:50:18 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:50:18 INFO     password_checker У вас есть 3 попыток
+20:50:21 WARNING  password_checker Вы ввели слишком слабый пароль
+20:51:10 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:51:10 INFO     password_checker У вас есть 3 попыток
+20:51:13 INFO     password_checker hell found in hello
+20:51:13 INFO     password_checker hello found in hello
+20:51:13 WARNING  password_checker Вы ввели слишком слабый пароль
+20:55:55 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:55:55 INFO     password_checker У вас есть 3 попыток
+20:56:07 INFO     password_checker hell found in helloworld
+20:56:07 INFO     password_checker hello found in helloworld
+20:56:07 INFO     password_checker world found in helloworld
+20:56:07 WARNING  password_checker Вы ввели слишком слабый пароль
+20:56:12 INFO     password_checker hell found in helloworld
+20:56:12 INFO     password_checker hello found in helloworld
+20:56:12 INFO     password_checker world found in helloworld
+20:56:12 WARNING  password_checker Вы ввели слишком слабый пароль
+20:56:21 INFO     password_checker hell found in hello
+20:56:21 INFO     password_checker hello found in hello
+20:56:21 WARNING  password_checker Вы ввели слишком слабый пароль
+20:56:21 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+20:57:05 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:57:05 INFO     password_checker У вас есть 3 попыток
+20:57:11 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:57:11 INFO     password_checker У вас есть 3 попыток
+20:57:14 INFO     password_checker hell found in helloworld
+20:57:14 INFO     password_checker hello found in helloworld
+20:57:14 INFO     password_checker world found in helloworld
+20:57:14 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:18 INFO     password_checker joke found in joke
+20:57:18 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:24 INFO     password_checker lower found in lowercase
+20:57:24 INFO     password_checker ower found in lowercase
+20:57:24 INFO     password_checker case found in lowercase
+20:57:24 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:24 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+20:57:43 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:57:43 INFO     password_checker У вас есть 3 попыток
+20:57:44 INFO     password_checker lower found in lower
+20:57:44 INFO     password_checker ower found in lower
+20:57:44 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:47 INFO     password_checker case found in case
+20:57:47 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:48 INFO     password_checker lower found in lower
+20:57:48 INFO     password_checker ower found in lower
+20:57:48 WARNING  password_checker Вы ввели слишком слабый пароль
+20:57:48 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+20:59:07 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+20:59:07 INFO     password_checker У вас есть 3 попыток
+21:00:53 INFO     password_checker hell found in hello
+21:00:53 INFO     password_checker hello found in hello
+21:00:53 WARNING  password_checker Вы ввели слишком слабый пароль
+21:00:54 INFO     password_checker word found in wordl
+21:00:54 WARNING  password_checker Вы ввели слишком слабый пароль
+21:00:56 ERROR    password_checker Не найдено никаких слов.
+21:00:56 WARNING  password_checker Вы ввели слишком слабый пароль
+21:00:56 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:01:42 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:01:42 INFO     password_checker У вас есть 3 попыток
+21:01:43 INFO     password_checker hell found in hello
+21:01:43 INFO     password_checker hello found in hello
+21:01:43 WARNING  password_checker Вы ввели слишком слабый пароль
+21:01:59 ERROR    password_checker Не найдено никаких слов.
+21:01:59 WARNING  password_checker Вы ввели слишком слабый пароль
+21:02:09 INFO     password_checker wrong found in wrong
+21:02:09 INFO     password_checker rong found in wrong
+21:02:09 WARNING  password_checker Вы ввели слишком слабый пароль
+21:02:09 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:08:38 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:08:38 INFO     password_checker У вас есть 3 попыток
+21:08:44 ERROR    password_checker Не найдено никаких слов.
+21:08:48 INFO     password_checker hell found in hello
+21:08:48 INFO     password_checker hello found in hello
+21:08:48 WARNING  password_checker Вы ввели слишком слабый пароль
+21:08:59 ERROR    password_checker Не найдено никаких слов.
+21:08:59 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:10:24 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:10:24 INFO     password_checker У вас есть 3 попыток
+21:10:26 INFO     password_checker hell found in hello
+21:10:26 INFO     password_checker hello found in hello
+21:10:26 WARNING  password_checker Вы ввели слишком слабый пароль
+21:10:28 ERROR    password_checker Не найдено никаких слов.
+21:10:28 INFO     password_checker Пароль хороший по новым стандартам.
+21:10:40 ERROR    password_checker Не найдено никаких слов.
+21:10:40 INFO     password_checker Пароль хороший по новым стандартам.
+21:10:40 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:11:22 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:11:22 INFO     password_checker У вас есть 3 попыток
+21:11:24 ERROR    password_checker Не найдено никаких слов.
+21:11:24 INFO     password_checker Пароль хороший по новым стандартам.
+21:11:28 ERROR    password_checker Не найдено никаких слов.
+21:11:28 INFO     password_checker Пароль хороший по новым стандартам.
+21:11:33 INFO     password_checker lower found in !@lower#@!fasq
+21:11:33 INFO     password_checker ower found in !@lower#@!fasq
+21:11:33 WARNING  password_checker Вы ввели слишком слабый пароль
+21:11:33 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:13:51 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:13:51 INFO     password_checker У вас есть 3 попыток
+21:13:54 INFO     password_checker lower found in lower
+21:13:54 INFO     password_checker ower found in lower
+21:13:54 WARNING  password_checker Вы ввели слишком слабый пароль
+21:13:59 ERROR    password_checker Не найдено никаких слов.
+21:13:59 ERROR    password_checker Не найдено никаких слов.
+21:13:59 INFO     password_checker Пароль хороший по новым стандартам.
+21:14:01 INFO     password_checker lower found in lower
+21:14:01 INFO     password_checker ower found in lower
+21:14:01 WARNING  password_checker Вы ввели слишком слабый пароль
+21:14:01 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:14:37 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:14:37 INFO     password_checker У вас есть 3 попыток
+21:14:44 INFO     password_checker lower found in lower
+21:14:44 INFO     password_checker ower found in lower
+21:14:44 WARNING  password_checker Вы ввели слишком слабый пароль
+21:14:48 ERROR    password_checker Не найдено никаких слов.
+21:14:48 ERROR    password_checker Не найдено никаких слов.
+21:14:48 INFO     password_checker Пароль хороший по новым стандартам.
+21:14:56 ERROR    password_checker Не найдено никаких слов.
+21:14:56 ERROR    password_checker Не найдено никаких слов.
+21:14:56 INFO     password_checker Пароль хороший по новым стандартам.
+21:14:56 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!
+21:15:40 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:15:40 INFO     password_checker У вас есть 3 попыток
+21:15:45 ERROR    password_checker Не найдено никаких слов.
+21:15:49 ERROR    password_checker Не найдено никаких слов.
+21:15:50 INFO     password_checker Пароль хороший по новым стандартам.
+21:16:20 INFO     password_checker Вы пытаетесь аутентифицироваться в Skillbox
+21:16:20 INFO     password_checker У вас есть 3 попыток
+21:16:23 ERROR    password_checker Не найдено никаких слов.
+21:16:23 INFO     password_checker Пароль хороший по новым стандартам.
+21:16:26 ERROR    password_checker Не найдено никаких слов.
+21:16:26 INFO     password_checker Пароль хороший по новым стандартам.
+21:16:28 INFO     password_checker hell found in hello
+21:16:28 INFO     password_checker hello found in hello
+21:16:28 WARNING  password_checker Вы ввели слишком слабый пароль
+21:16:28 ERROR    password_checker Пользователь трижды ввёл не правильный пароль!

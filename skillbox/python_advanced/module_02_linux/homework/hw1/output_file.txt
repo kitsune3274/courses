@@ -1,0 +1,439 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+vasilijkrylov    20447  94.6 24.3 40748820 2036812   ??  S    Sat03PM  95:57.26 /Applications/PyCharm.app/Contents/MacOS/pycharm
+vasilijkrylov    30244  25.2  0.2 34112604  13136   ??  S     8:12PM   0:00.16 /Users/vasilijkrylov/projects/pycharm/flask_test_2/.venv/bin/python /Users/vasilijkrylov/repositories/skillbox/python/python_advanced/module_02_linux/homework/hw1/get_summary_rss.py
+_windowserver      165  14.9  0.7 36129180  58116   ??  Ss   11Jul25 357:13.94 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+vasilijkrylov      420   4.0  0.9 34757232  78156   ??  S    11Jul25   2:31.01 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+root               125   4.0  0.2 33818948  15004   ??  Ss   11Jul25   6:00.53 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               316   2.6  0.5 35578204  39304   ??  Ss   11Jul25  21:11.91 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               216   1.2  0.1 33700476   7104   ??  Ss   11Jul25   6:45.94 /usr/libexec/runningboardd
+vasilijkrylov      434   1.0  0.1 33702516  10308   ??  S    11Jul25   0:45.55 /usr/libexec/pkd
+vasilijkrylov      534   1.0  0.1 33696312   7972   ??  S    11Jul25  19:05.39 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+root               118   0.8  0.0 33660740   2400   ??  Ss   11Jul25   1:20.93 /usr/libexec/keybagd -t 15
+vasilijkrylov      445   0.8  0.1 34221304  11520   ??  S    11Jul25   0:06.07 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+vasilijkrylov    14344   0.5  4.6 46594212 388776   ??  S    Fri04PM 140:54.63 /Applications/Firefox Developer Edition.app/Contents/MacOS/firefox -foreground
+vasilijkrylov      567   0.4  0.1 34371016   5444   ??  S    11Jul25   3:08.79 /Applications/AmneziaWG.app/Contents/MacOS/AmneziaWG
+vasilijkrylov      409   0.4  0.2 34513136  18116   ??  S    11Jul25   5:25.03 /Applications/Yandex.Disk.2.app/Contents/MacOS/Yandex.Disk.2
+vasilijkrylov    28673   0.3  2.4 36393404 202280   ??  S     6:37PM   0:15.86 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47142 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {132a4ed1-1ca6-416c-bdf0-49e963d3d5d8} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.205275192 365 tab
+root                99   0.3  0.2 33781048  15052   ??  Ss   11Jul25   5:52.25 /usr/libexec/logd
+root                 1   0.3  0.1 34152384  11492   ??  Ss   11Jul25  10:35.56 /sbin/launchd
+vasilijkrylov    29293   0.2  1.2 36419876 104164   ??  S     7:07PM   0:16.91 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47142 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {ce6fc52f-69d3-4868-9e06-13cc54026c9c} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1619928633 371 tab
+root               136   0.2  0.1 33707748   8320   ??  Ss   11Jul25   3:52.36 /usr/libexec/opendirectoryd
+vasilijkrylov      437   0.1  0.1 33692752   5944   ??  S    11Jul25   1:09.25 /usr/sbin/usernoted
+vasilijkrylov    19968   0.1  0.4 36268116  30528   ??  S    Sat02PM   0:56.97 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:46911 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {545d4d6e-db2d-4ab4-a6ca-2e5e622af312} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1651169072 84 tab
+root               159   0.1  0.0 33659952   1732   ??  Ss   11Jul25   2:11.43 /usr/sbin/notifyd
+vasilijkrylov    14349   0.1  2.4 53735244 199376   ??  S    Fri04PM  18:34.82 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:53433 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {aac7a040-b889-4f5f-ae82-95663ce5f81b} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.2106987752 4 tab
+root             28275   0.0  0.0 34151500   3656 s000  Ss    6:08PM   0:00.04 login -pf vasilijkrylov
+root             28138   0.0  0.0 33652416   1460   ??  Ss    5:54PM   0:00.02 /usr/libexec/applessdstatistics
+vasilijkrylov    28050   0.0  0.2 33694696  13260   ??  S     5:44PM   0:00.60 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+vasilijkrylov    28012   0.0  0.4 34437404  35504   ??  S     5:43PM   0:06.98 /Applications/Bear.app/Contents/MacOS/Bear
+root             27770   0.0  0.2 33695300  14108   ??  Ss    1:02PM   0:09.34 /usr/libexec/PerfPowerServices
+_hidd            27532   0.0  0.0 33659616    448   ??  Ss    2:00AM   0:00.18 /usr/libexec/hidd
+_coreaudiod      26427   0.0  0.0 33660648    224   ??  Ss   Sun04PM   0:00.02 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_coreaudiod      26426   0.0  0.0 33660988    652   ??  Ss   Sun04PM   0:00.43 Core Audio Driver (TVRemoteAudio.driver)
+_coreaudiod      26425   0.0  0.0 33660988    680   ??  Ss   Sun04PM   0:00.62 Core Audio Driver (SteamStreamingSpeakers.driver)
+_coreaudiod      26424   0.0  0.0 33662064    668   ??  Ss   Sun04PM   0:00.67 Core Audio Driver (SteamStreamingMicrophone.driver)
+_coreaudiod      26423   0.0  0.0 33664120    756   ??  Ss   Sun04PM   0:08.61 Core Audio Driver (Background Music Device.driver)
+_coreaudiod      26419   0.0  0.0 33662496    248   ??  Ss   Sun04PM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_coreaudiod      26418   0.0  0.1 33718812   4944   ??  Ss   Sun04PM   4:14.61 /usr/sbin/coreaudiod
+vasilijkrylov    26144   0.0  0.1 34206700   7712   ??  Ss   Sun03PM   0:00.54 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+vasilijkrylov    26026   0.0  0.0 33662560    260   ??  Ss   Sun03PM   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vasilijkrylov    26025   0.0  0.0 33697068    260   ??  S    Sun03PM   0:00.15 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+vasilijkrylov    25271   0.0  0.0 34152156    260   ??  S    Sun09AM   0:00.05 /usr/libexec/SidecarRelay
+root             25268   0.0  0.0 33635232    232   ??  Ss   Sun09AM   0:00.02 /usr/sbin/BlueTool -R
+root             24344   0.0  0.0 33659604    476   ??  Ss   Sun07AM   0:00.08 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+vasilijkrylov    24288   0.0  0.0 33689988   2228   ??  Ss   Sun07AM   0:00.27 /System/Applications/Mail.app/Contents/PlugIns/MailCacheDelete.appex/Contents/MacOS/MailCacheDelete -AppleLanguages ("ru-RU")
+root             24285   0.0  0.0 33691560    872   ??  Ss   Sun07AM   0:00.06 /usr/bin/sysdiagnose
+vasilijkrylov    24257   0.0  0.0 33660252    408   ??  S    Sun07AM   0:00.09 /usr/libexec/proactived
+vasilijkrylov    24256   0.0  0.0 33689420   1012   ??  S    Sun07AM   0:00.10 /usr/libexec/silhouette
+root             24247   0.0  0.0 33659616    340   ??  Ss   Sun07AM   0:00.02 /usr/libexec/batteryintelligenced
+root             24156   0.0  0.0 33635548    328   ??  SNs  Sun07AM   0:00.03 /usr/libexec/periodic-wrapper daily
+root             24092   0.0  0.0 33659856    224   ??  Ss   Sun12AM   0:00.07 aslmanager
+vasilijkrylov    23301   0.0  0.0 33723688   2004   ??  Ss   Sat10PM   0:01.38 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync -AppleLanguages ("ru-RU")
+vasilijkrylov    23299   0.0  0.0 34197540   2336   ??  Ss   Sat10PM   0:01.02 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vasilijkrylov    23298   0.0  0.1 34356820   6836   ??  Ss   Sat10PM   0:07.77 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+root             22247   0.0  0.0 33689828    896   ??  Ss   Sat08PM   0:00.05 /usr/libexec/microstackshot
+_assetcache      22246   0.0  0.0 33693512   2260   ??  Ss   Sat08PM   0:00.58 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+root             22228   0.0  0.0 33660248   1060   ??  Ss   Sat08PM   0:00.06 /usr/libexec/tzd
+vasilijkrylov    22224   0.0  0.1 34928528  11956   ??  Ss   Sat08PM   9:51.81 /Applications/AmneziaWG.app/Contents/PlugIns/WireGuardNetworkExtension.appex/Contents/MacOS/WireGuardNetworkExtension -AppleLanguages ("ru-RU")
+vasilijkrylov    22214   0.0  0.0 33660400    748   ??  Ss   Sat08PM   0:00.24 /System/Library/PrivateFrameworks/IDSBlastDoorSupport.framework/Versions/A/XPCServices/IDSBlastDoorService.xpc/Contents/MacOS/IDSBlastDoorService
+root             22213   0.0  0.0 33659844    352   ??  Ss   Sat08PM   0:00.08 /usr/libexec/mobileactivationd
+vasilijkrylov    22212   0.0  0.0 33801008    736   ??  S    Sat08PM   0:00.35 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+vasilijkrylov    22211   0.0  0.0 33659732    548   ??  S    Sat08PM   0:00.12 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+root             22202   0.0  0.0 34181700    568   ??  Ss   Sat08PM   0:00.07 /usr/libexec/memoryanalyticsd -xlatS
+_ctkd            22193   0.0  0.0 33660272    240   ??  Ss   Sat08PM   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+vasilijkrylov    22192   0.0  0.0 33690352   1040   ??  S    Sat08PM   0:00.21 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+_netbios         22187   0.0  0.0 33660496    736   ??  SNs  Sat08PM   0:00.46 /usr/sbin/netbiosd
+root             22072   0.0  0.0 33651444    396   ??  Ss   Sat05PM   0:00.09 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+root             22071   0.0  0.0 33689324    548   ??  Ss   Sat05PM   0:00.30 /usr/libexec/usbd
+vasilijkrylov    21691   0.0  0.0 33945676    344   ??  S    Sat04PM   0:01.53 /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService
+_captiveagent    21576   0.0  0.0 33660864    376   ??  Ss   Sat04PM   0:00.19 /usr/libexec/captiveagent
+_spotlight       21397   0.0  0.0 33692872    824   ??  S    Sat04PM   0:00.40 /usr/libexec/trustd --agent
+root             21278   0.0  0.0 33690696    552   ??  Ss   Sat04PM   0:00.13 /usr/libexec/ASPCarryLog
+vasilijkrylov    21132   0.0  0.0 33698240   2888   ??  Ss   Sat04PM   0:00.09 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+vasilijkrylov    20790   0.0  0.0 33690024    828   ??  S    Sat03PM   0:00.08 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+root             20748   0.0  0.0 33689632    876   ??  Ss   Sat03PM   0:00.17 /System/Library/CoreServices/osanalyticshelper server-init
+root             20724   0.0  0.0 33660188    252   ??  S    Sat03PM   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+vasilijkrylov    20722   0.0  0.1 33731896   5556   ??  S    Sat03PM   0:18.58 /System/Library/CoreServices/ReportCrash agent
+vasilijkrylov    20719   0.0  0.0 33690116   3484   ??  Ss   Sat03PM   0:00.18 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider -AppleLanguages ("ru-RU")
+vasilijkrylov    20705   0.0  0.0 33758008   1260   ??  S    Sat03PM   0:00.73 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+vasilijkrylov    20637   0.0  0.0 33888300   1196   ??  S    Sat03PM   0:03.29 /Applications/Firefox Developer Edition.app/Contents/MacOS/media-plugin-helper.app/Contents/MacOS/Firefox Developer Edition Media Plugin Helper -parentBuildID 20250711090543 -prefsHandle 0:55254 -prefMapHandle 1:277840 -pluginPath /Applications/Firefox Developer Edition.app/Contents/Resources/gmp-clearkey/0.1 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbPluginPath /Applications/Firefox Developer Edition.app/Contents/Resources/gmp-clearkey/0.1 -sbAllowWindowServer -ipcHandle 0 -initialChannelId {cbb58f38-a5b4-4c1f-b14a-02bfd1e2e573} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 org.mozilla.machname.2058320176 100 gmplugin
+root             20535   0.0  0.0 33704372   1892   ??  Ss   Sat03PM   2:36.34 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+vasilijkrylov    20525   0.0  0.3 36276876  28352   ??  S    Sat03PM   1:15.57 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:46911 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {a1a6ae24-2e46-4900-8f8f-ec3a02bba0d7} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.761774135 94 tab
+vasilijkrylov    20452   0.0  0.0 34150392    596   ??  S    Sat03PM   0:06.44 /Applications/PyCharm.app/Contents/bin/fsnotifier
+vasilijkrylov    20316   0.0  0.7 36515100  56776   ??  S    Sat02PM   1:39.94 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:46911 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {0bc8ff43-4a50-400a-883c-9981d354624a} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1916040141 86 tab
+root             20048   0.0  0.0 33719192    356   ??  Ss   Sat02PM   0:01.61 /System/Library/CoreServices/iconservicesagent runAsRoot
+vasilijkrylov    19962   0.0  0.0 33659748    688   ??  S    Sat02PM   0:00.24 /usr/libexec/WiFiVelocityAgent
+vasilijkrylov    19945   0.0  0.0 33660268    252   ??  Ss   Sat02PM   0:00.04 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root             19896   0.0  0.0 33662496    240   ??  Ss   Sat02PM   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root             19895   0.0  0.0 33660184    240   ??  Ss   Sat02PM   0:00.18 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root             19894   0.0  0.0 33698864   1228   ??  Ss   Sat02PM   0:00.98 /usr/sbin/systemsoundserverd
+vasilijkrylov    19885   0.0  0.0 33660268    508   ??  Ss   Sat02PM   0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+vasilijkrylov    19884   0.0  0.1 33715176   5132   ??  Ss   Sat02PM   0:01.70 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+vasilijkrylov    19294   0.0  0.0 33690056   1396   ??  S    Sat01PM   0:00.29 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+root             19289   0.0  0.0 33651408    420   ??  Ss   Sat01PM   0:00.07 /usr/libexec/PowerUIAgent
+vasilijkrylov    19210   0.0  0.0 34188784    392   ??  Ss   Sat01PM   0:20.11 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+root             19155   0.0  0.0 33659684    800   ??  Ss   Sat01PM   0:00.10 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+_gamecontrollerd 19148   0.0  0.0 33690020   1472   ??  Ss   Sat01PM   0:04.96 /usr/libexec/gamecontrollerd
+vasilijkrylov    18672   0.0  0.0 33870032   2320   ??  Ss   Sat12PM   0:01.86 /System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+vasilijkrylov    15614   0.0  0.0 33944268   1888   ??  S    Fri10PM   0:06.03 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20250711090543 -sandboxingKind 1 -prefsHandle 0:55124 -prefMapHandle 1:277840 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -ipcHandle 0 -initialChannelId {69ba29be-6768-4c4b-917c-61aa68f77365} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.627734890 17 utility
+root             14997   0.0  0.0 33690436   1876   ??  Ss   Fri05PM   0:19.51 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+_trustd          14496   0.0  0.0 33631972    480   ??  S    Fri04PM   0:02.16 /usr/sbin/distnoted agent
+vasilijkrylov    14351   0.0  0.0 33940864   1844   ??  S    Fri04PM   5:40.87 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20250711090543 -sandboxingKind 0 -prefsHandle 0:53513 -prefMapHandle 1:277840 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -ipcHandle 0 -initialChannelId {2c29cc81-696d-46f8-bb9c-f5e40319ff3b} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1047194604 5 utility
+vasilijkrylov    14348   0.0  0.0 33974872   2452   ??  S    Fri04PM  86:33.48 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20250711090543 -prefsHandle 0:44293 -prefMapHandle 1:277840 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -ipcHandle 0 -initialChannelId {c6e349b8-b64a-475d-9b7c-268a61e5cc3c} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.533229430 3 rdd
+vasilijkrylov    14347   0.0  0.5 36243032  44588   ??  S    Fri04PM   1:00.68 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:44293 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {69716419-909e-4c03-bcb8-722acaa75088} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1457967856 2 tab
+vasilijkrylov    14346   0.0  0.0 33923428   1440   ??  S    Fri04PM   0:00.67 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20250711090543 -prefsHandle 0:44179 -prefMapHandle 1:277840 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -ipcHandle 0 -initialChannelId {8d2f33d4-1082-459d-b371-e105509c71e5} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1822137590 1 socket
+vasilijkrylov    14345   0.0  0.0 33605548    244   ??  S    Fri04PM   0:00.02 /Applications/Firefox Developer Edition.app/Contents/MacOS/crashhelper 14344 gecko-crash-server-pipe.14344 /private/var/folders/lp/nj78w0sd7630t00n59klwsth0000gn/T/TemporaryItems/ 8 10
+vasilijkrylov    14242   0.0  0.0 34253136   2296   ??  S    Fri04PM   0:01.77 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+_BGMXPCHelper    10318   0.0  0.0 34181568    624   ??  Ss   13Jul25   0:01.29 /usr/local/libexec/BGMXPCHelper.xpc/Contents/MacOS/BGMXPCHelper
+vasilijkrylov    10091   0.0  0.0 33660620    244   ??  S    12Jul25   0:00.13 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+vasilijkrylov     9482   0.0  0.0 33704604    252   ??  S    12Jul25   0:00.24 /System/Library/PrivateFrameworks/StorageManagement.framework/Resources/diskspaced
+root              5379   0.0  0.0 33663160    616   ??  Ss   12Jul25   0:00.37 /usr/libexec/wifip2pd
+root              5352   0.0  0.0 33692816    332   ??  Ss   12Jul25   0:00.82 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+vasilijkrylov     3958   0.0  0.0 34273236   2828   ??  S    12Jul25   0:02.25 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
+_driverkit        3942   0.0  0.0 34151424    544   ??  Ss   12Jul25  22:46.80 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x1000014de com.apple.AppleUserHIDDrivers
+root              3936   0.0  0.0 33705120   2228   ??  Ss   12Jul25   0:06.82 /usr/libexec/TouchBarServer
+vasilijkrylov     3462   0.0  0.0 33690516   1892   ??  S    12Jul25   0:38.98 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+vasilijkrylov     3392   0.0  0.0 33689768   1052   ??  S    12Jul25   0:00.73 /usr/sbin/BTLEServerAgent
+root              3207   0.0  0.0 33660804    824   ??  Ss   12Jul25   0:02.26 /usr/libexec/nesessionmanager
+vasilijkrylov     3153   0.0  0.0 34225072   2032   ??  S    12Jul25   0:06.42 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+vasilijkrylov     2571   0.0  0.0 33662816    240   ??  Ss   12Jul25   0:01.35 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/TelemetryDiskChecker.xpc/Contents/MacOS/TelemetryDiskChecker
+vasilijkrylov     2570   0.0  0.1 33728660  12104   ??  S    12Jul25  16:10.47 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+_analyticsd       2495   0.0  0.0 33631972    464   ??  S    12Jul25   0:03.62 /usr/sbin/distnoted agent
+_fpsd             2494   0.0  0.0 33631972    468   ??  S    12Jul25   0:03.63 /usr/sbin/distnoted agent
+vasilijkrylov     2452   0.0  0.0 33691048    508   ??  S    12Jul25   0:00.30 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+vasilijkrylov     2449   0.0  0.0 33717744   2592   ??  Ss   12Jul25   0:00.50 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+root              2337   0.0  0.0 33701104   1000   ??  Ss   12Jul25   1:01.04 /System/Library/PrivateFrameworks/StorageKit.framework/Resources/storagekitd
+vasilijkrylov     2335   0.0  0.0 33700640    520   ??  S    12Jul25   0:00.65 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+vasilijkrylov     2334   0.0  0.0 33691964   1672   ??  S    12Jul25   0:01.29 /usr/libexec/appleaccountd
+vasilijkrylov     2284   0.0  0.1 33983416   4404   ??  S    12Jul25   0:05.09 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+root              1968   0.0  0.0 33660928    228   ??  Ss   12Jul25   0:00.06 /usr/libexec/misagent
+vasilijkrylov     1929   0.0  0.1 33714252   6324   ??  S    12Jul25   0:57.80 /usr/libexec/searchpartyuseragent
+vasilijkrylov     1928   0.0  0.2 33702092  13512   ??  S    12Jul25   0:03.04 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+vasilijkrylov     1777   0.0  0.0 33690112   1868   ??  Ss   11Jul25   0:00.15 /System/Library/PrivateFrameworks/BiomeStreams.framework/PlugIns/BiomeLighthousePlugin.appex/Contents/MacOS/BiomeLighthousePlugin -AppleLanguages ("ru-RU")
+vasilijkrylov     1690   0.0  0.0 33700204   3396   ??  S    11Jul25   0:07.54 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+vasilijkrylov     1674   0.0  0.0 33690160   2124   ??  Ss   11Jul25   0:05.39 /System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/Contents/MacOS/MusicCacheExtension -AppleLanguages ("ru-RU")
+vasilijkrylov     1672   0.0  0.0 33690160   2120   ??  Ss   11Jul25   0:05.45 /System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Contents/MacOS/TVCacheExtension -AppleLanguages ("ru-RU")
+vasilijkrylov     1671   0.0  0.0 33886068   2396   ??  Ss   11Jul25   0:10.30 /Applications/Safari.app/Contents/PlugIns/CacheDeleteExtension.appex/Contents/MacOS/CacheDeleteExtension -AppleLanguages ("ru-RU")
+vasilijkrylov     1670   0.0  0.0 33662044    852   ??  S    11Jul25   0:01.35 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root              1669   0.0  0.0 33689856    912   ??  Ss   11Jul25   0:10.09 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+vasilijkrylov     1668   0.0  0.0 33689940   1012   ??  S    11Jul25   0:03.38 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+root              1664   0.0  0.0 33660124    784   ??  Ss   11Jul25   0:01.84 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+root              1663   0.0  0.0 33690620   4008   ??  Ss   11Jul25   0:17.00 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+vasilijkrylov     1660   0.0  0.0 33660652    872   ??  S    11Jul25   0:01.28 /usr/libexec/replayd
+vasilijkrylov     1624   0.0  0.0 33690316   1516   ??  S    11Jul25   0:00.24 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+vasilijkrylov     1613   0.0  0.1 33699412   6060   ??  S    11Jul25   2:29.46 /usr/libexec/trustd --agent
+root              1608   0.0  0.0 34181032    852   ??  Ss   11Jul25   0:01.20 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+vasilijkrylov     1606   0.0  0.0 34181112    860   ??  S    11Jul25   0:00.80 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+_trustd           1591   0.0  0.1 33707028   6480   ??  Ss   11Jul25   8:03.52 /usr/libexec/trustd
+root              1557   0.0  0.0 33707368    956   ??  Ss   11Jul25   0:15.73 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+vasilijkrylov     1547   0.0  0.0 33693812   1776   ??  S    11Jul25   0:02.64 cloudphotod
+vasilijkrylov     1530   0.0  0.0 33690896   1884   ??  S    11Jul25   0:01.28 /System/Library/CoreServices/ScopedBookmarkAgent
+vasilijkrylov     1523   0.0  0.0 33696528   4140   ??  S    11Jul25   0:05.59 /usr/libexec/tipsd
+vasilijkrylov     1508   0.0  0.0 33696268   3480   ??  S    11Jul25   0:03.35 /System/Library/CoreServices/mapspushd
+root              1506   0.0  0.0 33694976   2828   ??  Ss   11Jul25   0:03.44 /usr/libexec/dprivacyd
+vasilijkrylov     1500   0.0  0.0 33691500   3232   ??  S    11Jul25   0:02.60 /usr/libexec/mlruntimed
+vasilijkrylov     1498   0.0  0.0 33660268   1448   ??  S    11Jul25   0:00.57 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
+vasilijkrylov     1492   0.0  0.1 33760724   8328   ??  Ss   11Jul25   1:07.77 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget -AppleLanguages ("ru-RU")
+vasilijkrylov     1491   0.0  0.1 33732740   5588   ??  Ss   11Jul25   7:46.40 /System/Library/CoreServices/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget -AppleLanguages ("ru-RU")
+vasilijkrylov     1479   0.0  0.0 33694460   3024   ??  S    11Jul25   0:01.57 /usr/libexec/keyboardservicesd
+vasilijkrylov     1478   0.0  0.4 34314156  30480   ??  S    11Jul25   0:11.23 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+vasilijkrylov     1413   0.0  0.2 33828036  17040   ??  Ss   11Jul25   1:32.68 /System/Library/CoreServices/ClimateProxy.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget -AppleLanguages ("ru-RU")
+vasilijkrylov     1221   0.0  0.0 33703156   3664   ??  S    11Jul25   0:11.04 /usr/libexec/transparencyd
+vasilijkrylov     1204   0.0  0.0 33690840   1932   ??  S    11Jul25   0:01.25 /usr/libexec/proactiveeventtrackerd
+vasilijkrylov     1180   0.0  0.2 33761592  15748   ??  Ss   11Jul25   2:17.90 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension -AppleLanguages ("ru-RU")
+vasilijkrylov      896   0.0  0.0 33705712   3984   ??  S    11Jul25  12:10.96 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+vasilijkrylov      891   0.0  0.0 33845976   1760   ??  S    11Jul25   0:02.90 /usr/libexec/promotedcontentd
+vasilijkrylov      888   0.0  0.2 33747668  13188   ??  S    11Jul25   0:27.98 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+vasilijkrylov      886   0.0  0.0 33690536   2976   ??  S    11Jul25   0:01.54 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+vasilijkrylov      882   0.0  0.0 33711256    428   ??  S    11Jul25   0:05.43 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/PasswordBreachAgent
+_fpsd              875   0.0  0.0 33660880    336   ??  Ss   11Jul25   0:01.74 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+root               840   0.0  0.0 33661184    792   ??  Ss   11Jul25   0:06.06 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+vasilijkrylov      794   0.0  0.0 33660268   2072   ??  S    11Jul25   0:00.45 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+vasilijkrylov      792   0.0  0.1 33723876  12404   ??  S    11Jul25   0:46.61 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+vasilijkrylov      791   0.0  0.0 33696668   3780   ??  S    11Jul25   0:02.91 /usr/libexec/adprivacyd
+vasilijkrylov      788   0.0  0.0 33690512    440   ??  S    11Jul25   0:00.27 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+vasilijkrylov      787   0.0  0.0 33855168   3340   ??  S    11Jul25   0:05.08 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+_spotlight         777   0.0  0.0 33700452    256   ??  SN   11Jul25   0:07.62 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+vasilijkrylov      770   0.0  0.1 33996416   6372   ??  S    11Jul25   0:38.04 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+vasilijkrylov      763   0.0  0.0 33871944   3560   ??  Ss   11Jul25   0:16.25 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+vasilijkrylov      761   0.0  0.0 33689620    684   ??  S    11Jul25   0:01.33 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+root               757   0.0  0.0 33690284   1640   ??  Ss   11Jul25   0:08.70 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingService.xpc/Contents/MacOS/CAReportingService
+root               737   0.0  0.0 33659620    816   ??  Ss   11Jul25   0:00.09 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+_reportmemoryexception   729   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.75 /usr/sbin/distnoted agent
+root               725   0.0  0.0 33660172    312   ??  Ss   11Jul25   0:00.06 /usr/libexec/online-authd
+root               675   0.0  0.0 33626480    212   ??  Ss   11Jul25   0:00.11 /usr/libexec/taskgated
+vasilijkrylov      640   0.0  0.1 33749756   4368   ??  S    11Jul25   0:10.39 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+vasilijkrylov      638   0.0  0.0 33690056    832   ??  S    11Jul25   0:00.28 /usr/libexec/diagnosticextensionsd
+vasilijkrylov      633   0.0  0.0 34203520   2328   ??  S    11Jul25   0:06.14 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker -launchedbyvulcan /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../libs/Creative Cloud Content Manager.node
+root               631   0.0  0.0 33668432    220   ??  Ss   11Jul25   0:00.11 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+vasilijkrylov      630   0.0  0.0 33659748   2416   ??  S    11Jul25   0:01.66 /usr/libexec/findmydevice-user-agent
+vasilijkrylov      626   0.0  0.0 33660192    368   ??  S    11Jul25   0:00.32 /usr/libexec/USBAgent
+root               625   0.0  0.0 33691588    920   ??  S    11Jul25   0:03.32 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+vasilijkrylov      622   0.0  0.1 33788496   5004   ??  S    11Jul25   0:03.22 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+root               621   0.0  0.1 33701504   5716   ??  Ss   11Jul25   0:25.14 /usr/libexec/rtcreportingd
+vasilijkrylov      620   0.0  0.0 33696168   1340   ??  S    11Jul25   0:24.69 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+vasilijkrylov      619   0.0  0.0 33690672   2396   ??  S    11Jul25   0:13.07 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+vasilijkrylov      616   0.0  0.1 33829808  10140   ??  Ss   11Jul25   0:08.86 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+vasilijkrylov      605   0.0  0.3 34525776  26376   ??  S    11Jul25   4:14.64 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../libs/Creative Cloud Content Manager.node /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../js/main.js
+vasilijkrylov      599   0.0  0.0 33700612   3788   ??  S    11Jul25   0:07.57 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+vasilijkrylov      597   0.0  0.0 33690696   2188   ??  Ss   11Jul25   0:04.64 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+vasilijkrylov      589   0.0  0.0 33781468   2840   ??  S    11Jul25   0:02.17 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+vasilijkrylov      588   0.0  0.0 33660300    912   ??  S    11Jul25   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+vasilijkrylov      587   0.0  0.0 33697652   3892   ??  S    11Jul25   0:03.24 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+vasilijkrylov      585   0.0  0.0 33698016   2680   ??  S    11Jul25   0:01.82 /usr/libexec/neagent
+vasilijkrylov      583   0.0  0.1 33867596   9544   ??  S    11Jul25   0:40.86 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+root               582   0.0  0.0 33698224   2952   ??  Ss   11Jul25   0:07.34 /System/Library/CoreServices/SubmitDiagInfo server-init
+vasilijkrylov      581   0.0  0.1 33699964   6540   ??  SN   11Jul25   0:28.28 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+vasilijkrylov      580   0.0  0.1 33734624  11308   ??  S    11Jul25   0:34.64 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+vasilijkrylov      576   0.0  0.1 33727392   5984   ??  S    11Jul25   0:44.04 /usr/libexec/nsurlsessiond
+vasilijkrylov      575   0.0  0.0 33691648   2192   ??  S    11Jul25   0:54.97 /System/Library/CoreServices/lockoutagent
+root               572   0.0  0.0 33660140    292   ??  Ss   11Jul25   0:00.10 /usr/libexec/smd
+vasilijkrylov      570   0.0  0.0 33691608   1836   ??  Ss   11Jul25   0:03.05 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+vasilijkrylov      569   0.0  0.0 33695092   1036   ??  S    11Jul25   0:01.11 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+vasilijkrylov      566   0.0  0.0 33659812    536   ??  S    11Jul25   0:00.18 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+vasilijkrylov      565   0.0  0.0 33660664    856   ??  S    11Jul25   0:00.73 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+vasilijkrylov      564   0.0  0.1 33736856   4672   ??  S    11Jul25   0:03.28 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+vasilijkrylov      562   0.0  0.0 33705972   1992   ??  S    11Jul25   0:02.43 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+vasilijkrylov      561   0.0  0.0 33690276   1312   ??  S    11Jul25   0:00.65 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+vasilijkrylov      560   0.0  0.0 33689620   3088   ??  S    11Jul25   0:01.97 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+vasilijkrylov      559   0.0  0.0 33697812   2808   ??  S    11Jul25   0:03.62 /usr/libexec/fmfd
+_nearbyd           558   0.0  0.0 33696252   1096   ??  Ss   11Jul25   0:14.22 /usr/libexec/nearbyd
+vasilijkrylov      557   0.0  0.0 34247812   2728   ??  S    11Jul25   4:16.96 /Users/vasilijkrylov/Library/Application Support/Figma/FigmaAgent.app/Contents/MacOS/figma_agent
+root               556   0.0  0.0 33659716    528   ??  Ss   11Jul25   0:00.21 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+vasilijkrylov      554   0.0  0.0 33693888   4148   ??  S    11Jul25   0:10.19 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+vasilijkrylov      552   0.0  0.1 34311832   4948   ??  S    11Jul25   0:08.23 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+vasilijkrylov      550   0.0  0.0 33690560   4100   ??  S    11Jul25   0:37.22 /System/Library/CoreServices/diagnostics_agent
+vasilijkrylov      549   0.0  0.1 33692568   5156   ??  S    11Jul25   0:09.31 /System/Library/CoreServices/cloudpaird
+vasilijkrylov      548   0.0  0.0 34197724   2040   ??  S    11Jul25   0:01.99 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+vasilijkrylov      545   0.0  0.0 33692144   1204   ??  S    11Jul25   0:06.34 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+vasilijkrylov      543   0.0  0.0 33690212    832   ??  S    11Jul25   0:00.53 /System/Library/Image Capture/Support/icdd
+vasilijkrylov      542   0.0  0.0 34273380   3672   ??  S    11Jul25   0:39.39 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+vasilijkrylov      536   0.0  0.0 33692136    728   ??  S    11Jul25   0:02.45 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+vasilijkrylov      535   0.0  0.0 33661636   2464   ??  S    11Jul25   0:01.61 /usr/libexec/biomesyncd
+vasilijkrylov      533   0.0  0.0 33659664    672   ??  S    11Jul25   0:01.15 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+root               532   0.0  0.0 33690452   1412   ??  Ss   11Jul25   0:03.33 /usr/libexec/wifivelocityd
+vasilijkrylov      530   0.0  0.0 33691008   2720   ??  S    11Jul25   0:01.44 /usr/libexec/siriknowledged
+vasilijkrylov      529   0.0  0.0 33693516   2280   ??  S    11Jul25   0:17.76 /usr/libexec/swcd
+vasilijkrylov      528   0.0  0.1 33955048   8000   ??  S    11Jul25   0:08.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+vasilijkrylov      527   0.0  0.1 33726332  11180   ??  S    11Jul25   0:35.66 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+vasilijkrylov      526   0.0  0.1 33699688   7132   ??  S    11Jul25   0:09.70 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+_cmiodalassistants   525   0.0  0.0 33661168    496   ??  Ss   11Jul25   0:09.20 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/AppleCamera.plugin/Contents/Resources/AppleCameraAssistant
+vasilijkrylov      524   0.0  0.0 33696616    672   ??  Ss   11Jul25   0:00.20 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+vasilijkrylov      522   0.0  0.0 34187276   2280   ??  S    11Jul25   0:06.24 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+vasilijkrylov      521   0.0  0.1 33699864   6980   ??  S    11Jul25   1:54.02 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+vasilijkrylov      520   0.0  0.1 33692224   4528   ??  S    11Jul25   0:08.99 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+vasilijkrylov      519   0.0  0.1 33782176   5196   ??  S    11Jul25   0:29.79 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+vasilijkrylov      518   0.0  0.2 33716292  16648   ??  S    11Jul25   1:39.26 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+vasilijkrylov      517   0.0  0.1 33693280   5336   ??  S    11Jul25   0:03.83 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+vasilijkrylov      516   0.0  0.0 33695520   2316   ??  S    11Jul25   0:01.77 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+vasilijkrylov      515   0.0  0.1 33697808   4220   ??  S    11Jul25   0:03.75 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+vasilijkrylov      512   0.0  0.0 33660324    904   ??  S    11Jul25   0:00.41 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+vasilijkrylov      511   0.0  0.1 34331500   6720   ??  S    11Jul25   0:04.52 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+vasilijkrylov      510   0.0  0.1 33698404   5696   ??  S    11Jul25   0:11.68 /usr/libexec/networkserviceproxy
+vasilijkrylov      509   0.0  0.0 34187632   2776   ??  S    11Jul25   0:00.61 /usr/libexec/avconferenced
+vasilijkrylov      508   0.0  0.0 33699392   3568   ??  S    11Jul25   0:04.85 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+root               507   0.0  0.0 33691348   1720   ??  Ss   11Jul25   0:16.36 /usr/sbin/WirelessRadioManagerd
+vasilijkrylov      506   0.0  0.1 33702696  10708   ??  S    11Jul25   0:39.85 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+vasilijkrylov      504   0.0  0.1 33700752   4196   ??  Ss   11Jul25   0:09.54 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+vasilijkrylov      502   0.0  0.0 33697948   2964   ??  S    11Jul25   0:02.49 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+vasilijkrylov      501   0.0  0.0 33690544   2120   ??  S    11Jul25   0:01.36 /System/Library/CoreServices/pbs
+vasilijkrylov      498   0.0  0.0 33660972    344   ??  S    11Jul25   0:00.13 /usr/libexec/spindump_agent
+vasilijkrylov      497   0.0  0.0 33660744   1904   ??  S    11Jul25   0:02.32 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+root               495   0.0  0.0 33731216    952   ??  Ss   11Jul25   1:13.49 /usr/sbin/spindump
+vasilijkrylov      494   0.0  0.1 33704988   5824   ??  S    11Jul25   0:08.86 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+vasilijkrylov      493   0.0  0.0 34248144   3480   ??  Ss   11Jul25   0:06.46 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+vasilijkrylov      491   0.0  0.0 33690700   3484   ??  S    11Jul25  13:50.60 /usr/libexec/triald
+_driverkit         489   0.0  0.0 34123740    188   ??  Ss   11Jul25   0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000596 com.apple.IOUserBluetoothSerialDriver
+vasilijkrylov      486   0.0  0.0 33696000   3040   ??  S    11Jul25   0:05.05 /usr/libexec/dmd
+vasilijkrylov      484   0.0  0.1 33715672   7700   ??  S    11Jul25   0:38.35 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+vasilijkrylov      481   0.0  0.0 33878012   4004   ??  Ss   11Jul25   0:08.93 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("ru-RU")
+root               477   0.0  0.0 33691240   1448   ??  Ss   11Jul25   0:21.07 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+vasilijkrylov      476   0.0  0.0 33691880   3452   ??  S    11Jul25   0:01.47 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+_fpsd              475   0.0  0.0 33660080   1260   ??  Ss   11Jul25   0:00.35 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+vasilijkrylov      474   0.0  0.0 33694252    540   ??  S    11Jul25   0:00.99 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+vasilijkrylov      473   0.0  0.0 33690320   2748   ??  S    11Jul25   0:08.76 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+vasilijkrylov      471   0.0  0.0 33690460   1792   ??  S    11Jul25   0:00.78 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+vasilijkrylov      467   0.0  0.1 33742984   7544   ??  S    11Jul25   0:39.01 /usr/libexec/studentd
+vasilijkrylov      461   0.0  0.2 34349692  16964   ??  S    11Jul25   1:47.94 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+vasilijkrylov      460   0.0  0.1 33721036  10668   ??  S    11Jul25   1:20.43 /usr/libexec/sharingd
+vasilijkrylov      458   0.0  0.1 33696768  10776   ??  S    11Jul25   0:25.46 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+vasilijkrylov      457   0.0  0.0 33724212   2068   ??  Ss   11Jul25   0:02.40 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync -AppleLanguages ("ru-RU")
+vasilijkrylov      456   0.0  0.1 33699708   4940   ??  S    11Jul25   0:06.70 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+vasilijkrylov      453   0.0  0.0 33696516   1924   ??  S    11Jul25   0:09.41 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+vasilijkrylov      452   0.0  0.0 33659964    620   ??  S    11Jul25   0:00.47 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+root               448   0.0  0.0 33661284    248   ??  Ss   11Jul25   0:00.10 automountd
+vasilijkrylov      447   0.0  0.1 33698720   4420   ??  S    11Jul25   0:14.69 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+vasilijkrylov      446   0.0  0.2 33822636  14952   ??  S    11Jul25   1:30.50 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+vasilijkrylov      444   0.0  0.0 33691200   3948   ??  S    11Jul25   0:12.14 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+vasilijkrylov      443   0.0  0.1 34358752   8768   ??  S    11Jul25   0:09.51 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+vasilijkrylov      442   0.0  0.1 33695100   4840   ??  S    11Jul25   0:42.73 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+vasilijkrylov      441   0.0  0.0 33660288   1548   ??  S    11Jul25   0:27.89 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root               440   0.0  0.1 33668960   4260   ??  Ss   11Jul25   0:03.24 /usr/sbin/filecoordinationd
+_appleevents       439   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.85 /usr/sbin/distnoted agent
+vasilijkrylov      438   0.0  0.1 34396752   5336   ??  Ss   11Jul25   0:06.29 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vasilijkrylov      436   0.0  0.1 33891180   8148   ??  S    11Jul25   0:12.63 /System/Library/CoreServices/iconservicesagent
+vasilijkrylov      435   0.0  0.0 33713576    252   ??  S    11Jul25   0:01.27 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+vasilijkrylov      433   0.0  0.0 34275620   3104   ??  S    11Jul25   0:02.29 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+vasilijkrylov      432   0.0  0.0 33690284   3424   ??  S    11Jul25   7:38.38 /usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+vasilijkrylov      431   0.0  0.0 33693872   3072   ??  S    11Jul25   0:18.42 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+vasilijkrylov      430   0.0  0.1 33716560  10404   ??  S    11Jul25   0:23.76 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+vasilijkrylov      429   0.0  0.0 33691084   4024   ??  S    11Jul25   0:30.52 /usr/libexec/secinitd
+vasilijkrylov      428   0.0  0.2 33726132  14296   ??  S    11Jul25   2:34.68 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+vasilijkrylov      427   0.0  0.0 33667888   3088   ??  S    11Jul25   0:00.93 /usr/libexec/pboard
+_fpsd              426   0.0  0.0 33661996   1536   ??  Ss   11Jul25   0:04.24 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+vasilijkrylov      425   0.0  0.0 33691124   3424   ??  S    11Jul25   0:19.43 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+vasilijkrylov      421   0.0  0.1 33691048   5076   ??  S    11Jul25   0:09.33 /usr/libexec/rapportd
+vasilijkrylov      419   0.0  0.0 34311420   3360   ??  S    11Jul25   0:05.26 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+vasilijkrylov      418   0.0  0.2 34365468  16032   ??  S    11Jul25   3:00.90 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+vasilijkrylov      417   0.0  0.2 34320280  17212   ??  S    11Jul25   2:08.88 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+vasilijkrylov      416   0.0  0.0 33735428   2040   ??  S    11Jul25   0:02.77 /System/Library/CoreServices/talagent
+vasilijkrylov      414   0.0  0.0 33699504   3016   ??  S    11Jul25   0:02.49 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+vasilijkrylov      413   0.0  0.1 33699524   4948   ??  S    11Jul25   0:10.79 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+vasilijkrylov      410   0.0  0.1 33705200   5016   ??  S    11Jul25   0:20.57 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+vasilijkrylov      408   0.0  0.0 33691824   1448   ??  S    11Jul25   0:00.63 /System/Library/CoreServices/backgroundtaskmanagementagent
+vasilijkrylov      407   0.0  0.1 33692304   4556   ??  S    11Jul25   0:02.81 /System/Library/CoreServices/sharedfilelistd
+vasilijkrylov      406   0.0  0.3 34355424  27260   ??  S    11Jul25   0:25.25 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+vasilijkrylov      405   0.0  0.1 33717896   5536   ??  S    11Jul25   1:00.08 /usr/libexec/secd
+vasilijkrylov      404   0.0  0.1 33731176   9088   ??  S    11Jul25   1:26.73 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+vasilijkrylov      403   0.0  0.0 33660188   1228   ??  S    11Jul25   0:00.12 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+vasilijkrylov      400   0.0  0.1 33735376   5076   ??  S    11Jul25   0:10.46 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+vasilijkrylov      399   0.0  0.1 33699096   6292   ??  S    11Jul25   1:59.10 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+vasilijkrylov      398   0.0  0.1 33699536   5816   ??  S    11Jul25   1:14.00 /usr/libexec/lsd
+vasilijkrylov      397   0.0  0.1 33708880   9692   ??  S    11Jul25   0:42.53 /usr/libexec/knowledge-agent
+vasilijkrylov      396   0.0  0.0 33698428   3524   ??  S    11Jul25   0:03.22 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+vasilijkrylov      392   0.0  0.1 33692964   5144   ??  S    11Jul25   0:23.80 /usr/libexec/UserEventAgent (Aqua)
+vasilijkrylov      391   0.0  0.0 33660956   2972   ??  S    11Jul25   1:34.26 /usr/sbin/cfprefsd agent
+root               390   0.0  0.0 33691364    916   ??  Ss   11Jul25   0:01.20 /usr/libexec/remotepairingdeviced
+root               389   0.0  0.0 33652016    376   ??  Ss   11Jul25   0:00.41 /usr/libexec/securityd_service
+vasilijkrylov      388   0.0  0.0 33634156   2712   ??  S    11Jul25   3:18.99 /usr/sbin/distnoted agent
+root               386   0.0  0.0 33689988    616   ??  Ss   11Jul25   0:00.22 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               382   0.0  0.0 33659836    820   ??  Ss   11Jul25   0:23.47 /usr/libexec/sysmond
+root               379   0.0  0.0 33694568   1936   ??  Ss   11Jul25   0:02.10 /usr/libexec/symptomsd-diag
+root               376   0.0  0.0 33660160    488   ??  Ss   11Jul25   0:00.25 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+_appleevents       368   0.0  0.0 33690684   3560   ??  Ss   11Jul25   0:28.38 /System/Library/CoreServices/appleeventsd --server
+root               364   0.0  0.0 33691368    676   ??  Ss   11Jul25   0:01.33 /usr/libexec/wifianalyticsd
+root               363   0.0  0.0 33691168    920   ??  Ss   11Jul25   0:02.11 /usr/libexec/aned
+_windowserver      352   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.69 /usr/sbin/distnoted agent
+_locationd         348   0.0  0.1 33716820   7856   ??  Ss   11Jul25   0:52.96 /usr/libexec/locationd
+_applepay          345   0.0  0.0 33691392    728   ??  Ss   11Jul25   0:00.47 /usr/libexec/nfcd
+_accessoryupdater   336   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.63 /usr/sbin/distnoted agent
+_assetcache        335   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.72 /usr/sbin/distnoted agent
+_assetcache        334   0.0  0.0 33692204    816   ??  Ss   11Jul25   0:01.93 /usr/libexec/AssetCache/AssetCache
+_nsurlsessiond     330   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.82 /usr/sbin/distnoted agent
+root               329   0.0  0.0 33691044    228   ??  Ss   11Jul25   0:00.13 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+root               328   0.0  0.0 33659604    604   ??  Ss   11Jul25   0:00.60 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+_cmiodalassistants   327   0.0  0.0 33690540    720   ??  Ss   11Jul25   0:00.66 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   323   0.0  0.0 33631972    468   ??  S    11Jul25   0:03.92 /usr/sbin/distnoted agent
+root               322   0.0  0.0 33690600    236   ??  Ss   11Jul25   0:00.20 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+root               321   0.0  0.0 33651440    304   ??  Ss   11Jul25   0:05.26 /usr/libexec/thermald
+_spotlight         317   0.0  0.0 33631972    468   ??  S    11Jul25   0:04.01 /usr/sbin/distnoted agent
+root               312   0.0  0.0 33692376    732   ??  Ss   11Jul25   0:00.62 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_softwareupdate    311   0.0  0.0 33631972    468   ??  S    11Jul25   0:04.38 /usr/sbin/distnoted agent
+_softwareupdate    310   0.0  0.1 33984404   5708   ??  Ss   11Jul25   0:58.59 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root               303   0.0  0.0 33659840    564   ??  Ss   11Jul25   0:00.84 /usr/libexec/logd_helper
+root               299   0.0  0.0 33696596    336   ??  Ss   11Jul25   0:19.58 /System/Library/CoreServices/ReportCrash daemon
+root               296   0.0  0.0 33721204   3084   ??  Ss   11Jul25   0:03.98 /usr/libexec/searchpartyd
+_locationd         252   0.0  0.0 33631972    472   ??  S    11Jul25   0:05.21 /usr/sbin/distnoted agent
+root               251   0.0  0.0 33690500   3028   ??  Ss   11Jul25   0:03.52 /usr/libexec/amfid
+root               248   0.0  0.0 33702884   4144   ??  Ss   11Jul25   1:52.08 /usr/libexec/mobileassetd
+_coreaudiod        245   0.0  0.0 33631972    468   ??  S    11Jul25   0:04.78 /usr/sbin/distnoted agent
+root               243   0.0  0.1 33698748   6692   ??  Ss   11Jul25   0:18.37 /usr/libexec/lsd runAsRoot
+root               241   0.0  0.0 33690556    404   ??  Ss   11Jul25   0:09.48 /usr/sbin/mDNSResponderHelper
+root               240   0.0  0.0 33659784    460   ??  Ss   11Jul25   0:00.65 /usr/libexec/apfsd
+root               238   0.0  0.0 33692040   1212   ??  Ss   11Jul25   0:05.26 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+root               237   0.0  0.0 33660128   1760   ??  Ss   11Jul25   0:37.33 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+_nsurlsessiond     236   0.0  0.1 33736756   5452   ??  Ss   11Jul25   0:24.29 /usr/libexec/nsurlsessiond --privileged
+root               235   0.0  0.0 33691796    664   ??  Ss   11Jul25   1:22.81 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+root               229   0.0  0.0 33690036   1236   ??  Ss   11Jul25   0:19.92 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root               228   0.0  0.0 33699380    692   ??  Ss   11Jul25   0:15.99 /usr/libexec/diskmanagementd
+_mdnsresponder     227   0.0  0.1 33697020   4384   ??  Ss   11Jul25   1:18.31 /usr/sbin/mDNSResponder
+root               215   0.0  0.0 33696832   1792   ??  Ss   11Jul25   0:03.22 /usr/libexec/findmydeviced
+_networkd          214   0.0  0.1 33703768   5712   ??  Ss   11Jul25   1:12.68 /usr/libexec/symptomsd
+root               213   0.0  0.0 33690052    992   ??  Ss   11Jul25   0:03.50 /usr/libexec/nehelper
+root               202   0.0  0.0 33632036    484   ??  S    11Jul25   0:05.70 /usr/sbin/distnoted agent
+root               200   0.0  0.1 33696216   6724   ??  Ss   11Jul25   1:56.86 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               198   0.0  0.1 33701640   8464   ??  Ss   11Jul25   3:04.86 /usr/libexec/airportd
+root               183   0.0  0.3 33793268  28200   ??  Ss   11Jul25  19:58.47 /usr/libexec/syspolicyd
+root               177   0.0  0.0 33692440   1804   ??  Ss   11Jul25   0:43.78 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               174   0.0  0.0 33672592   1192   ??  Ss   11Jul25   0:14.10 /System/Library/CoreServices/coreservicesd
+_analyticsd        169   0.0  0.0 33701092   4092   ??  Ss   11Jul25   0:49.83 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+vasilijkrylov      168   0.0  0.2 34362416  18288   ??  Ss   11Jul25   6:10.12 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               166   0.0  0.1 33701640   7600   ??  Ss   11Jul25   9:10.09 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               164   0.0  0.0 33660196   2656   ??  Ss   11Jul25   1:20.24 /usr/sbin/cfprefsd daemon
+root               162   0.0  0.0 33691188   2080   ??  Ss   11Jul25   0:24.63 /usr/libexec/AirPlayXPCHelper
+root               161   0.0  0.0 33690512   3108   ??  Ss   11Jul25   0:54.78 /usr/libexec/corebrightnessd --launchd
+root               160   0.0  0.0 33692648   1800   ??  Ss   11Jul25   0:06.41 /usr/libexec/sandboxd
+root               158   0.0  0.1 33756636   8236   ??  Ss   11Jul25  54:55.74 /usr/sbin/bluetoothd
+root               156   0.0  0.0 33660140    212   ??  Ss   11Jul25   0:00.08 /usr/sbin/KernelEventAgent
+root               155   0.0  0.0 33691360   2632   ??  Ss   11Jul25   0:03.95 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               154   0.0  0.0 33659664   1168   ??  Ss   11Jul25   0:00.33 /System/Library/CoreServices/logind
+root               151   0.0  0.0 33660284    436   ??  Ss   11Jul25   0:00.28 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+_distnote          150   0.0  0.0 33631972    956   ??  Ss   11Jul25   1:09.30 /usr/sbin/distnoted daemon
+root               148   0.0  0.1 33696860   7592   ??  Ss   11Jul25   2:03.33 /usr/libexec/dasd
+_displaypolicyd    147   0.0  0.0 33662804    732   ??  Ss   11Jul25   0:00.62 /usr/libexec/displaypolicyd -k 1
+root               146   0.0  0.0 33643872    204   ??  Ss   11Jul25   0:00.04 autofsd
+root               141   0.0  0.0 33693172   4016   ??  Ss   11Jul25   0:08.20 /usr/sbin/securityd -i
+_usbmuxd           140   0.0  0.0 33694264    732   ??  Ss   11Jul25   0:00.72 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_timed             139   0.0  0.0 33690452   2324   ??  Ss   11Jul25   0:05.61 /usr/libexec/timed
+root               138   0.0  0.1 33692032   6168   ??  Ss   11Jul25   6:55.81 /System/Library/CoreServices/launchservicesd
+root               137   0.0  0.1 33698784   7568   ??  Ss   11Jul25   0:39.18 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               135   0.0  0.0 33651432    212   ??  Ss   11Jul25   0:00.05 /usr/libexec/thermalmonitord
+root               132   0.0  0.0 33660748    808   ??  Ss   11Jul25   0:14.60 /usr/sbin/syslogd
+root               131   0.0  0.1 33715308   9136   ??  Ss   11Jul25   4:02.84 /usr/libexec/coreduetd
+root               128   0.0  0.0 33689404   2244   ??  Ss   11Jul25   1:39.30 /usr/libexec/diskarbitrationd
+root               127   0.0  0.0 33697648    784   ??  Ss   11Jul25   0:04.31 /usr/libexec/kernelmanagerd
+_iconservices      126   0.0  0.0 33690384   1280   ??  Ss   11Jul25   0:00.28 /System/Library/CoreServices/iconservicesd
+root               121   0.0  0.0 33660172   1432   ??  Ss   11Jul25   0:06.36 /usr/libexec/watchdogd
+_softwareupdate    119   0.0  0.0 33691140   1016   ??  Ss   11Jul25   0:00.77 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+root               116   0.0  0.0 33690100    336   ??  Ss   11Jul25   0:00.19 /usr/libexec/remoted
+root               112   0.0  0.1 33691216   4440   ??  Ss   11Jul25   2:42.82 /System/Library/CoreServices/powerd.bundle/powerd
+root               110   0.0  0.0 33746256   3724   ??  Ss   11Jul25   1:51.08 /usr/libexec/configd
+root               108   0.0  0.1 33708008   4880   ??  Ss   11Jul25   3:20.81 /usr/sbin/systemstats --daemon
+root               105   0.0  0.0 33702744   3712   ??  Ss   11Jul25   0:37.40 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               104   0.0  0.0 33666320   3312   ??  Ss   11Jul25   7:18.33 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               103   0.0  0.0 33659324    608   ??  Ss   11Jul25   0:06.02 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root               100   0.0  0.1 33692768   4284   ??  Ss   11Jul25   0:48.56 /usr/libexec/UserEventAgent (System)
+root             30246   0.0  0.0 34123284   1128   ??  R     8:12PM   0:00.00 ps aux
+vasilijkrylov    22269   0.0  0.0        0      0   ??  Z    Sat08PM   0:00.00 (plugin-container)
+vasilijkrylov    30245   0.0  0.0 34123356   1144   ??  S     8:12PM   0:00.00 /bin/sh -c ps aux > output_file.txt
+vasilijkrylov    30237   0.0  0.1 33668340   5576   ??  S     8:11PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+vasilijkrylov    30236   0.0  0.1 33668340   5624   ??  S     8:11PM   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+vasilijkrylov    30164   0.0  0.5 36129952  41040   ??  S     8:07PM   0:00.23 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47141 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {3c23172a-1741-400a-bbe7-5479564a421c} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1426115697 381 tab
+vasilijkrylov    30147   0.0  0.4 33731524  30692   ??  Ss    8:06PM   0:00.49 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync -AppleLanguages ("ru-RU")
+vasilijkrylov    30146   0.0  0.2 34204852  13368   ??  Ss    8:06PM   0:00.09 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vasilijkrylov    30145   0.0  0.5 34330160  45544   ??  Ss    8:06PM   0:05.19 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+vasilijkrylov    30143   0.0  0.4 34370232  30156   ??  S     8:06PM   0:00.73 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+vasilijkrylov    30051   0.0  0.3 36129684  29100   ??  S     8:02PM   0:00.18 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47141 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {f30819d0-f984-4d16-ad56-751df52ffb4c} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.71294683 380 tab
+vasilijkrylov    30000   0.0  0.3 36129684  27704   ??  S     7:57PM   0:00.18 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47141 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {7d477d74-f120-4269-a3f2-2558406b4466} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.421066837 379 tab
+vasilijkrylov    29907   0.0  0.2 33714300  13040   ??  Ss    7:49PM   0:00.17 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("ru-RU")
+vasilijkrylov    29822   0.0  0.0 34151848   1352 s002  Ss+   7:46PM   0:00.10 /bin/zsh --login -i
+vasilijkrylov    29399   0.0  0.2 33748840  15884   ??  S     7:15PM   0:00.79 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+vasilijkrylov    29173   0.0  1.1 36388836  95744   ??  S     7:02PM   0:11.81 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47141 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {6a7fcbd8-67a1-44e1-86db-a26433b26485} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1207800770 370 tab
+vasilijkrylov    28622   0.0  1.7 36588428 146040   ??  S     6:32PM   0:18.24 /Applications/Firefox Developer Edition.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:47142 -prefMapHandle 1:277840 -jsInitHandle 2:242012 -sbStartup -sbAppPath /Applications/Firefox Developer Edition.app -sbLevel 3 -parentBuildID 20250711090543 -ipcHandle 0 -initialChannelId {a1b8baec-22f8-4cfb-9fd0-9403c3d229f5} -parentPid 14344 -crashReporter gecko-crash-server-pipe.14344 -greomni /Applications/Firefox Developer Edition.app/Contents/Resources/omni.ja -appomni /Applications/Firefox Developer Edition.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox Developer Edition.app/Contents/Resources/browser -profile /Users/vasilijkrylov/Library/Application Support/Firefox/Profiles/xokzffcb.dev-edition-default org.mozilla.machname.1832661156 364 tab
+vasilijkrylov    28563   0.0  0.0 33660224   1564   ??  S     6:25PM   0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+vasilijkrylov    28561   0.0  0.0 33652012   1792   ??  S     6:25PM   0:00.02 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+vasilijkrylov    28557   0.0  0.1 33690396   5572   ??  S     6:25PM   0:00.05 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+vasilijkrylov    28401   0.0  0.0 33698208   3136   ??  Ss    6:13PM   0:00.05 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+_nsurlsessiond   28295   0.0  0.0 34184100   2708   ??  Ss    6:09PM   0:00.46 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+vasilijkrylov    28288   0.0  0.2 33912640  16332   ??  Ss    6:08PM   0:02.74 /System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/PlugIns/ThumbnailExtension_macOS.appex/Contents/MacOS/ThumbnailExtension_macOS -AppleLanguages ("ru-RU")
+vasilijkrylov    28276   0.0  0.0 34151832   1764 s000  S+    6:08PM   0:00.30 -zsh
